@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "mock-api",
+  "description": "just a pratice on mock db api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcf-fernandes/mock-API.git"
+  },
+  "author": "Leandro Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcf-fernandes/mock-API/issues"
+  },
+  "homepage": "https://github.com/lcf-fernandes/mock-API#readme"
 }
