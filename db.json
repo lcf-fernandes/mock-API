@@ -1,0 +1,55 @@
+{
+    "Hamburgueres": [
+        {
+            "id": 0,
+            "name": "The oneburguer",
+            "site": "www.oneburguer.com",
+            "description": "Um hamburguer para a todos governar",
+            "ingredients": ["carne", "queijo", "pão", "molho", "tempero secreto de mordor"],
+            "adresses": [
+                {
+                    "addressid":"0",
+                    "number":"171",
+                    "line1":"Bem aqui",
+                    "line2":"na minha casa",
+                    "postcode": "171171171",
+                    "country": "Middle Earth"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Bode Burguer",
+            "site": "www.bodeburguer.com",
+            "description": "Pra encher o bucho!",
+            "ingredients": ["carne caprina", "queijo de leite de cabra", "pão", "molho picante", "pimenta a rodo"],
+            "adresses": [
+                {
+                    "addressid":"0",
+                    "number":"22",
+                    "line1":"Perto da praia",
+                    "line2":"Nordeste",
+                    "postcode": "123456",
+                    "country": "NORDESTE"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hamburguer Vegano",
+            "site": "www.itsalie.com",
+            "description": "Acredita quem quer",
+            "ingredients": ["tudo mato"],
+            "adresses": [
+                {
+                    "addressid":"0",
+                    "number":"00",
+                    "line1":"Tenda Hippie",
+                    "line2":"-",
+                    "postcode": "77777777777",
+                    "country": "Modinha"
+                }
+            ]
+        }
+    ]
+}
